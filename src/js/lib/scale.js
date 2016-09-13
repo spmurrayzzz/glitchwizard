@@ -9,7 +9,6 @@ var stage = $('.stage')[ 0 ];
 function resize() {
   var aspect = window.innerWidth / window.innerHeight;
   var scale;
-  scale = window.innerWidth / camera.width;
   if ( aspect <= 1 ) {
     scale = window.innerWidth / camera.width;
   } else {
