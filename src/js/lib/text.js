@@ -507,6 +507,7 @@ export default {
 
     // Draw rendered text to canvas
     ctx.imageSmoothingEnabled = false;
+    ctx.mozImageSmoothingEnabled = false;
     each( opts, function( val, key ) {
       ctx[ key ] = val;
     });

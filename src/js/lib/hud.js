@@ -34,6 +34,7 @@ player.once( 'move', function() {
 });
 
 ctx.imageSmoothingEnabled = false;
+ctx.mozImageSmoothingEnabled = false;
 
 var getHearts = memoize(function( num ) {
   if ( num <= 0 ) {

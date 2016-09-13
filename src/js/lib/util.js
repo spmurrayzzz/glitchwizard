@@ -146,6 +146,7 @@ export function listenTo( event, fn ) {
 
 export function drawSprite( ctx, entity, sprite ) {
   ctx.imageSmoothingEnabled = false;
+  ctx.mozImageSmoothingEnabled = false;
   ctx.drawImage( sprite, entity.x, entity.y, entity.w, entity.h );
 }
 
