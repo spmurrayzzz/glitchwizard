@@ -66,7 +66,7 @@ function renderDistance() {
 }
 
 function renderTitleScreen() {
-  if ( !renderTitle && player.dead ) {
+  if ( !renderTitle || player.dead ) {
     return;
   }
   text.draw( ctx, 'glitch', 220, 100, 10, '#fff', titleOpts );
