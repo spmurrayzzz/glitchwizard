@@ -2,6 +2,8 @@
 
 HTML5 platformer game written for the js13kgames.com 2016 competition.
 
+[Demo](https://s3.amazonaws.com/spmurraydata/glitchwizard.html)
+
 ![game](http://i.imgur.com/0PDRR4x.jpg)
 
 Description: Our hero is the Glitch Wizard. He's pretty confused, sometimes when
