@@ -13,6 +13,20 @@ Objective: Try to travel as far as you can without dying. Avoid bombs, spikes, a
 
 Controls: Left/Right arrow keys to move, Space to jump.
 
+## Installation
+
+```
+# install dependencies
+npm install -g gulp node-static
+npm install
+
+# build game
+gulp
+
+# host game at 127.0.0.1:8080/dist
+static 
+```
+
 ## Credits/Attribution
 
 - Character art: [RPG Maker VX Resource Planet](https://vxresource.wordpress.com/2010/03/29/o-mai-gaad-its-an-update/) (Original credit: [Tekepon](https://web.archive.org/web/20130115210031/http://www.tekepon.net/fsm/))
