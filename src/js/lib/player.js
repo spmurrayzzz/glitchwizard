@@ -123,7 +123,7 @@ var Player = Entity.extend({
     if ( this.jumping || this.falling  ) {
       return;
     }
-    this.velocity.y = -10;
+    this.velocity.y = this.mode ? -11 : -10;
     this.gravity = this.mode ? 4 : 8;
     this.currentFrame = 1;
     this.emit('jump');
