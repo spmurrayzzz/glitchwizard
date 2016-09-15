@@ -6,6 +6,8 @@ http://js13kgames.com/entries/glitch-wizard
 
 *Final game size: `12859 bytes`*
 
+[Playable Demo](https://s3.amazonaws.com/spmurraydata/glitchwizard.html)
+
 ![game](http://i.imgur.com/0PDRR4x.jpg)
 
 Description: Our hero is the Glitch Wizard. He's pretty confused, sometimes when
