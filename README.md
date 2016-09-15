@@ -2,9 +2,9 @@
 
 HTML5 platformer game written for the js13kgames.com 2016 competition.
 
-*Final game size: `12859 bytes`*
+http://js13kgames.com/entries/glitch-wizard
 
-[Demo](https://s3.amazonaws.com/spmurraydata/glitchwizard.html)
+*Final game size: `12859 bytes`*
 
 ![game](http://i.imgur.com/0PDRR4x.jpg)
 
